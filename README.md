@@ -11,9 +11,9 @@
 
 <br>
 
-# Hey there, I'm [YOUR_NAME] 👋
+# Hey there, I'm Ikrame Houzane 👋
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/IkrameHouzane">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=[YOUR_ROLE];[YOUR_SECOND_ROLE];Passionate+about+AI+%26+Data+Science;Building+useful+things+with+code;Always+learning%2C+always+building." alt="Typing SVG" />
 </a>
 
@@ -22,13 +22,13 @@
 <!-- ========================= BADGES ========================= -->
 
 <p>
-  <a href="https://github.com/[YOUR_USERNAME]">
+  <a href="https://github.com/IkrameHouzane">
     <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-    <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars">
+  <a href="https://github.com/IkrameHouzane?tab=repositories">
+    <img src="https://img.shields.io/github/stars/IkrameHouzane?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=FF69B4&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=IkrameHouzane&label=Profile%20Views&color=FF69B4&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views">
 </p>
 
 <br>
@@ -47,7 +47,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hey! I'm [YOUR_NAME] 👋
+### Hey! I'm Ikrame Houzane 👋
 
 I'm a **[YOUR_ROLE / DEGREE]** passionate about building intelligent and impactful software solutions.
 
