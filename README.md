@@ -312,36 +312,21 @@ Academic project focused on product prediction and segmentation.
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
+<!-- ========================= GITHUB ACTIVITY ========================= -->
 
 ## 📈 GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/IkrameHouzane">
-
-<img
-  src="https://streak-stats.demolab.com?user=IkrameHouzane&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=F8BBD0"
-  width="90%"
-  alt="GitHub Streak"
-/>
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/IkrameHouzane">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=IkrameHouzane&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Ikrame's%20Contribution%20Activity"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IkrameHouzane&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Ikrame%27s%20Contribution%20Activity"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
 </a>
 
 </div>
-
 ---
 
 <!-- ========================= CONTRIBUTION SNAKE ========================= -->
@@ -350,20 +335,28 @@ Academic project focused on product prediction and segmentation.
 
 <div align="center">
 
-<!--
-GitHub Action configuration:
-Create .github/workflows/snake.yml to generate
-the contribution snake and publish it to the output branch.
--->
+<!-- Generated automatically by .github/workflows/snake.yml -->
 
-<img
-  src="https://raw.githubusercontent.com/IkrameHouzane/IkrameHouzane/output/github-contribution-grid-snake.svg"
-  width="90%"
-  alt="GitHub Contribution Snake"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/IkrameHouzane/IkrameHouzane/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/IkrameHouzane/IkrameHouzane/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/IkrameHouzane/IkrameHouzane/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="GitHub Contribution Snake"
+  />
+
+</picture>
 
 </div>
-
 ---
 
 <!-- ========================= CURRENTLY ========================= -->
