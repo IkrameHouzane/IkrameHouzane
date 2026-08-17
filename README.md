@@ -68,75 +68,90 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hi, I'm Ikrame! 👋
+<strong>Hi, I'm Ikrame! 👋</strong>
 
-I'm a **2nd-year Software & Intelligent Systems Engineering student** at FST Tangier, passionate about **Artificial Intelligence, Machine Learning and Data Science**.
+<br><br>
+
+I'm a <strong>2nd-year Software & Intelligent Systems Engineering student</strong> at FST Tangier, passionate about <strong>Artificial Intelligence, Machine Learning and Data Science</strong>.
+
+<br><br>
 
 I'm particularly interested in exploring data, building predictive models and developing intelligent applications that solve real-world problems.
 
-### 🚀 What I do
+<br><br>
 
-- 🤖 Explore **Artificial Intelligence & Machine Learning**
-- 📊 Work with **Data Science & Data Mining**
-- 🧠 Build and experiment with **ML models**
-- 🌐 Develop **Full-Stack applications**
-- 🔌 Design and consume **REST APIs**
-- 🗄️ Work with **SQL & NoSQL databases**
-- 🔗 Explore **Blockchain & AI integration**
-- 🐍 Build projects with **Python**
+<strong>🚀 What I do</strong>
 
-### 🌱 Currently
+<br><br>
 
-I'm continuously improving my skills in **Data Science, Machine Learning, AI and Software Engineering**, while building projects that combine intelligent systems with practical applications.
+🤖 Explore <strong>Artificial Intelligence & Machine Learning</strong><br>
+📊 Work with <strong>Data Science & Data Mining</strong><br>
+🧠 Build and experiment with <strong>Machine Learning models</strong><br>
+🌐 Develop <strong>Full-Stack applications</strong><br>
+🔌 Design and consume <strong>REST APIs</strong><br>
+🗄️ Work with <strong>SQL & NoSQL databases</strong><br>
+🔗 Explore <strong>Blockchain & AI integration</strong><br>
+🐍 Build projects with <strong>Python</strong>
 
-### 🎯 My goal
+<br><br>
 
-To become a strong **Data Scientist / AI Engineer** capable of transforming real-world problems into data-driven and intelligent solutions.
+<strong>🌱 Currently</strong>
+
+<br><br>
+
+I'm continuously improving my skills in <strong>Data Science, Machine Learning, AI and Software Engineering</strong>, while building projects that combine intelligent systems with practical applications.
+
+<br><br>
+
+<strong>🎯 My Goal</strong>
+
+<br><br>
+
+To become a strong <strong>Data Scientist / AI Engineer</strong> capable of transforming real-world problems into data-driven and intelligent solutions.
 
 </td>
 
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rounded&color=0:EF93C4,100:F8BBD0&height=180&section=header&text=Ikrame&fontSize=50&fontColor=ffffff&animation=fadeIn"
-  width="100%"
-  alt="Ikrame"
->
+  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"
+  width="180"
+  alt="AI and Machine Learning"
+/>
 
 <br><br>
 
 <img
   src="https://img.shields.io/badge/Artificial%20Intelligence-FF69B4?style=for-the-badge"
   alt="Artificial Intelligence"
->
+/>
 
 <br><br>
 
 <img
   src="https://img.shields.io/badge/Machine%20Learning-EF93C4?style=for-the-badge"
   alt="Machine Learning"
->
+/>
 
 <br><br>
 
 <img
   src="https://img.shields.io/badge/Data%20Science-F8BBD0?style=for-the-badge&labelColor=555"
   alt="Data Science"
->
+/>
 
 <br><br>
 
 <img
   src="https://img.shields.io/badge/Software%20Engineering-FF69B4?style=for-the-badge"
   alt="Software Engineering"
->
+/>
 
 </td>
 </tr>
 </table>
 
 ---
-
 <!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Tech Stack
