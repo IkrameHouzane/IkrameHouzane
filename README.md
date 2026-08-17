@@ -68,7 +68,7 @@
 <tr>
 <td width="40%" align="center">
 
-<img src="assets/about-me.png" width="280" alt="Ikrame illustration"/>
+<img src="assets/about-me.svg" width="280" alt="Ikrame illustration"/>
 
 </td>
 <td width="60%" valign="top">
