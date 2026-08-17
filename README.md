@@ -329,7 +329,7 @@ Academic project focused on product prediction and segmentation.
 </div>
 ---
 
-\<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
 
 ## 🐍 Contribution Snake
 
