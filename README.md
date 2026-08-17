@@ -123,8 +123,8 @@
 
 <br>
 
-<!-- Avatar SVG intégré directement -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="180" height="180">
+<!-- ====== AVATAR SVG ====== -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="170" height="170">
   
   <!-- Arrière-plan rond -->
   <circle cx="150" cy="150" r="140" fill="#F8BBD0" opacity="0.25"/>
@@ -190,7 +190,7 @@
 
 <br><br>
 
-<!-- Badges sous l'avatar -->
+<!-- ====== BADGES SOUS L'AVATAR ====== -->
 <img
   src="https://img.shields.io/badge/🌟%20AI%20Enthusiast-FF69B4?style=for-the-badge&labelColor=1f1f1f"
   alt="AI Enthusiast"
@@ -222,6 +222,7 @@
 </table>
 
 ---
+
 <!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Tech Stack
