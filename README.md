@@ -152,6 +152,7 @@ To become a strong <strong>Data Scientist / AI Engineer</strong> capable of tran
 </table>
 
 ---
+
 <!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Tech Stack
@@ -327,6 +328,7 @@ Academic project focused on product prediction and segmentation.
 </a>
 
 </div>
+
 ---
 
 <!-- ========================= CONTRIBUTION SNAKE ========================= -->
@@ -357,6 +359,7 @@ Academic project focused on product prediction and segmentation.
 </picture>
 
 </div>
+
 ---
 
 <!-- ========================= CURRENTLY ========================= -->
@@ -426,31 +429,10 @@ Academic project focused on product prediction and segmentation.
   />
 </a>
 
-<a href="[YOUR_X_URL]">
+<a href="https://github.com/IkrameHouzane/IkrameHouzane/blob/main/CV_Ikrame_Houzane.pdf">
   <img
-    src="https://img.shields.io/badge/X-1f1f1f?style=for-the-badge&logo=x&logoColor=white"
-    alt="X"
-  />
-</a>
-
-<a href="[YOUR_INSTAGRAM_URL]">
-  <img
-    src="https://img.shields.io/badge/Instagram-EF93C4?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-
-<a href="[YOUR_TIKTOK_URL]">
-  <img
-    src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white"
-    alt="TikTok"
-  />
-</a>
-
-<a href="[YOUR_YOUTUBE_URL]">
-  <img
-    src="https://img.shields.io/badge/YouTube-F8BBD0?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="YouTube"
+    src="https://img.shields.io/badge/📄%20CV-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+    alt="CV"
   />
 </a>
 
