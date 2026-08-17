@@ -68,83 +68,153 @@
 <tr>
 <td width="65%" valign="top">
 
-<strong>Hi, I'm Ikrame! 👋</strong>
+### ✨ Hello, I'm Ikrame!
 
-<br><br>
+<br>
 
-I'm a <strong>2nd-year Software & Intelligent Systems Engineering student</strong> at FST Tangier, passionate about <strong>Artificial Intelligence, Machine Learning and Data Science</strong>.
+🎓 <strong>2nd-year Software & Intelligent Systems Engineering</strong> student at <strong>FST Tangier</strong>
 
-<br><br>
+<br>
 
-I'm particularly interested in exploring data, building predictive models and developing intelligent applications that solve real-world problems.
+💖 Passionate about <strong>AI • Machine Learning • Data Science</strong>
 
-<br><br>
+<br>
 
-<strong>🚀 What I do</strong>
+🔍 I love exploring data, building predictive models, and creating intelligent applications that make a real difference.
 
-<br><br>
+<br>
 
-🤖 Explore <strong>Artificial Intelligence & Machine Learning</strong><br>
-📊 Work with <strong>Data Science & Data Mining</strong><br>
-🧠 Build and experiment with <strong>Machine Learning models</strong><br>
-🌐 Develop <strong>Full-Stack applications</strong><br>
-🔌 Design and consume <strong>REST APIs</strong><br>
-🗄️ Work with <strong>SQL & NoSQL databases</strong><br>
-🔗 Explore <strong>Blockchain & AI integration</strong><br>
-🐍 Build projects with <strong>Python</strong>
+---
 
-<br><br>
+### 🚀 What I Do
 
-<strong>🌱 Currently</strong>
+<br>
 
-<br><br>
+| | |
+|---|---|
+| 🤖 | <strong>Artificial Intelligence & Machine Learning</strong> |
+| 📊 | <strong>Data Science & Data Mining</strong> |
+| 🧠 | <strong>Machine Learning models</strong> |
+| 🌐 | <strong>Full-Stack Development</strong> |
+| 🔌 | <strong>REST APIs</strong> |
+| 🗄️ | <strong>SQL & NoSQL Databases</strong> |
+| 🔗 | <strong>Blockchain & AI Integration</strong> |
+| 🐍 | <strong>Python Development</strong> |
 
-I'm continuously improving my skills in <strong>Data Science, Machine Learning, AI and Software Engineering</strong>, while building projects that combine intelligent systems with practical applications.
+---
 
-<br><br>
+### 🌱 Currently
 
-<strong>🎯 My Goal</strong>
+<br>
 
-<br><br>
+> *Continuously improving in Data Science, Machine Learning, AI & Software Engineering*
 
-To become a strong <strong>Data Scientist / AI Engineer</strong> capable of transforming real-world problems into data-driven and intelligent solutions.
+<br>
+
+### 🎯 My Goal
+
+<br>
+
+> *Become a strong **Data Scientist / AI Engineer** transforming real-world problems into intelligent solutions.*
 
 </td>
 
 <td width="35%" align="center" valign="middle">
 
+<br>
+
+<!-- Avatar SVG intégré directement -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="180" height="180">
+  
+  <!-- Arrière-plan rond -->
+  <circle cx="150" cy="150" r="140" fill="#F8BBD0" opacity="0.25"/>
+  <circle cx="150" cy="150" r="120" fill="#F8BBD0" opacity="0.15"/>
+  
+  <!-- Tête -->
+  <ellipse cx="150" cy="120" rx="45" ry="48" fill="#EF93C4"/>
+  
+  <!-- Chignon -->
+  <circle cx="150" cy="75" r="22" fill="#D81B60"/>
+  <circle cx="140" cy="72" r="8" fill="#E91E63"/>
+  <circle cx="160" cy="72" r="8" fill="#E91E63"/>
+  
+  <!-- Lunettes -->
+  <circle cx="133" cy="115" r="14" fill="none" stroke="#FF69B4" stroke-width="3"/>
+  <circle cx="167" cy="115" r="14" fill="none" stroke="#FF69B4" stroke-width="3"/>
+  <line x1="147" y1="115" x2="153" y2="115" stroke="#FF69B4" stroke-width="2.5"/>
+  
+  <!-- Yeux -->
+  <circle cx="133" cy="115" r="3.5" fill="#1f1f1f"/>
+  <circle cx="167" cy="115" r="3.5" fill="#1f1f1f"/>
+  
+  <!-- Sourire -->
+  <path d="M 143 130 Q 150 138 157 130" fill="none" stroke="#FF69B4" stroke-width="2.5" stroke-linecap="round"/>
+  
+  <!-- Épaules -->
+  <path d="M 95 170 Q 120 150 150 150 Q 180 150 205 170" fill="none" stroke="#EF93C4" stroke-width="18" stroke-linecap="round"/>
+  
+  <!-- Ordinateur portable -->
+  <rect x="110" y="175" width="80" height="50" rx="4" fill="#1f1f1f"/>
+  <rect x="115" y="180" width="70" height="32" rx="2" fill="#2d2d2d"/>
+  
+  <!-- Lignes de code -->
+  <rect x="122" y="186" width="20" height="3" fill="#FF69B4" rx="1"/>
+  <rect x="122" y="192" width="30" height="3" fill="#EF93C4" rx="1"/>
+  <rect x="122" y="198" width="15" height="3" fill="#FF69B4" rx="1"/>
+  <rect x="140" y="198" width="10" height="3" fill="#F8BBD0" rx="1"/>
+  <rect x="122" y="204" width="40" height="3" fill="#EF93C4" rx="1"/>
+  
+  <!-- Clavier -->
+  <rect x="115" y="215" width="70" height="3" rx="1" fill="#444"/>
+  <rect x="115" y="220" width="70" height="3" rx="1" fill="#444"/>
+  
+  <!-- Cœurs flottants -->
+  <text x="55" y="110" font-size="24" opacity="0.7">💗</text>
+  <text x="225" y="120" font-size="20" opacity="0.6">💗</text>
+  <text x="45" y="155" font-size="16" opacity="0.5">💗</text>
+  
+  <!-- Icônes autour -->
+  <text x="35" y="195" font-size="26" opacity="0.7">🤖</text>
+  <text x="230" y="180" font-size="26" opacity="0.7">📊</text>
+  <text x="235" y="100" font-size="22" opacity="0.6">🧠</text>
+  
+  <!-- Badge AI -->
+  <rect x="70" y="240" width="45" height="18" rx="9" fill="#FF69B4" opacity="0.85"/>
+  <text x="78" y="253" font-size="10" fill="white" font-family="monospace" font-weight="bold">AI</text>
+  
+  <!-- Badge Data -->
+  <rect x="180" y="240" width="55" height="18" rx="9" fill="#EF93C4" opacity="0.85"/>
+  <text x="186" y="253" font-size="10" fill="white" font-family="monospace" font-weight="bold">DATA</text>
+  
+</svg>
+
+<br><br>
+
+<!-- Badges sous l'avatar -->
 <img
-  src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"
-  width="180"
-  alt="AI and Machine Learning"
+  src="https://img.shields.io/badge/🌟%20AI%20Enthusiast-FF69B4?style=for-the-badge&labelColor=1f1f1f"
+  alt="AI Enthusiast"
 />
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/Artificial%20Intelligence-FF69B4?style=for-the-badge"
-  alt="Artificial Intelligence"
+  src="https://img.shields.io/badge/🧠%20ML%20Learner-EF93C4?style=for-the-badge&labelColor=1f1f1f"
+  alt="ML Learner"
 />
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/Machine%20Learning-EF93C4?style=for-the-badge"
-  alt="Machine Learning"
+  src="https://img.shields.io/badge/📊%20Data%20Scientist-F8BBD0?style=for-the-badge&labelColor=1f1f1f"
+  alt="Data Scientist"
 />
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/Data%20Science-F8BBD0?style=for-the-badge&labelColor=555"
-  alt="Data Science"
-/>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/Software%20Engineering-FF69B4?style=for-the-badge"
-  alt="Software Engineering"
+  src="https://img.shields.io/badge/💻%20Full--Stack%20Dev-FF69B4?style=for-the-badge&labelColor=1f1f1f"
+  alt="Full-Stack Dev"
 />
 
 </td>
@@ -152,7 +222,6 @@ To become a strong <strong>Data Scientist / AI Engineer</strong> capable of tran
 </table>
 
 ---
-
 <!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Tech Stack
