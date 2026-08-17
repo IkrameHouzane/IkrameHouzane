@@ -68,54 +68,39 @@
 <tr>
 <td width="65%" valign="top">
 
-### ✨ Hello, I'm Ikrame!
+### ✨ Hey, I'm Ikrame
 
 <br>
 
-🎓 <strong>2nd-year Software & Intelligent Systems Engineering</strong> student at <strong>FST Tangier</strong>
+🎓 2nd-year **Software & Intelligent Systems Engineering** student at **FST Tangier**, specializing in **AI, Data Science & Cybersecurity**.
 
-<br>
-
-💖 Passionate about <strong>AI • Machine Learning • Data Science</strong>
-
-<br>
-
-🔍 I love exploring data, building predictive models, and creating intelligent applications that make a real difference.
+I like turning messy, real-world data into things that actually work — pipelines, models, dashboards, secured infrastructures.
 
 <br>
 
 ---
 
-### 🚀 What I Do
+### 🚀 A few things I've built
 
 <br>
 
-| | |
-|---|---|
-| 🤖 | <strong>Artificial Intelligence & Machine Learning</strong> |
-| 📊 | <strong>Data Science & Data Mining</strong> |
-| 🧠 | <strong>Machine Learning models</strong> |
-| 🌐 | <strong>Full-Stack Development</strong> |
-| 🔌 | <strong>REST APIs</strong> |
-| 🗄️ | <strong>SQL & NoSQL Databases</strong> |
-| 🔗 | <strong>Blockchain & AI Integration</strong> |
-| 🐍 | <strong>Python Development</strong> |
+🛒 **Smart E-commerce Pipeline** — multi-agent scraping of **5,051 products** across **11 stores**, benchmarked 4 ML approaches (Random Forest **92.6%**, XGBoost 92.4%), orchestrated with Kubeflow/Docker, deployed as a Streamlit dashboard with an LLM assistant
+
+⛽ **Fuel Price Forecasting** *(current PFA @ Logistral)* — end-to-end pipeline scraping Moroccan fuel prices, integrating Brent crude & USD/MAD, using a hybrid delta model to predict logistics costs
+
+🏠 **Decentralized Rental Platform** — Solidity smart contracts + a FastAPI AI microservice for price prediction, risk scoring & recommendations
+
+🔐 **Network Security Labs** — designed and hardened multi-tier enterprise networks (OPNsense, Suricata IDS/IPS, WireGuard, MFA) and audited a WebGoat app, documenting 9 vulnerabilities
+
+<br>
 
 ---
 
-### 🌱 Currently
+### 🎯 Right now
 
 <br>
 
-> *Continuously improving in Data Science, Machine Learning, AI & Software Engineering*
-
-<br>
-
-### 🎯 My Goal
-
-<br>
-
-> *Become a strong **Data Scientist / AI Engineer** transforming real-world problems into intelligent solutions.*
+> *Building an agentic cost-estimation feature for a logistics/watering-zones platform, and sharpening my ML & security fundamentals along the way.*
 
 </td>
 
@@ -125,67 +110,73 @@
 
 <!-- ====== AVATAR SVG ====== -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="170" height="170">
-  
+
   <!-- Arrière-plan rond -->
   <circle cx="150" cy="150" r="140" fill="#F8BBD0" opacity="0.25"/>
   <circle cx="150" cy="150" r="120" fill="#F8BBD0" opacity="0.15"/>
-  
+
   <!-- Tête -->
   <ellipse cx="150" cy="120" rx="45" ry="48" fill="#EF93C4"/>
-  
+
   <!-- Chignon -->
   <circle cx="150" cy="75" r="22" fill="#D81B60"/>
   <circle cx="140" cy="72" r="8" fill="#E91E63"/>
   <circle cx="160" cy="72" r="8" fill="#E91E63"/>
-  
+
   <!-- Lunettes -->
   <circle cx="133" cy="115" r="14" fill="none" stroke="#FF69B4" stroke-width="3"/>
   <circle cx="167" cy="115" r="14" fill="none" stroke="#FF69B4" stroke-width="3"/>
   <line x1="147" y1="115" x2="153" y2="115" stroke="#FF69B4" stroke-width="2.5"/>
-  
+
   <!-- Yeux -->
   <circle cx="133" cy="115" r="3.5" fill="#1f1f1f"/>
   <circle cx="167" cy="115" r="3.5" fill="#1f1f1f"/>
-  
+
   <!-- Sourire -->
   <path d="M 143 130 Q 150 138 157 130" fill="none" stroke="#FF69B4" stroke-width="2.5" stroke-linecap="round"/>
-  
+
   <!-- Épaules -->
   <path d="M 95 170 Q 120 150 150 150 Q 180 150 205 170" fill="none" stroke="#EF93C4" stroke-width="18" stroke-linecap="round"/>
-  
+
   <!-- Ordinateur portable -->
   <rect x="110" y="175" width="80" height="50" rx="4" fill="#1f1f1f"/>
   <rect x="115" y="180" width="70" height="32" rx="2" fill="#2d2d2d"/>
-  
+
   <!-- Lignes de code -->
   <rect x="122" y="186" width="20" height="3" fill="#FF69B4" rx="1"/>
   <rect x="122" y="192" width="30" height="3" fill="#EF93C4" rx="1"/>
   <rect x="122" y="198" width="15" height="3" fill="#FF69B4" rx="1"/>
   <rect x="140" y="198" width="10" height="3" fill="#F8BBD0" rx="1"/>
   <rect x="122" y="204" width="40" height="3" fill="#EF93C4" rx="1"/>
-  
+
   <!-- Clavier -->
   <rect x="115" y="215" width="70" height="3" rx="1" fill="#444"/>
   <rect x="115" y="220" width="70" height="3" rx="1" fill="#444"/>
-  
-  <!-- Cœurs flottants -->
-  <text x="55" y="110" font-size="24" opacity="0.7">💗</text>
-  <text x="225" y="120" font-size="20" opacity="0.6">💗</text>
-  <text x="45" y="155" font-size="16" opacity="0.5">💗</text>
-  
-  <!-- Icônes autour -->
-  <text x="35" y="195" font-size="26" opacity="0.7">🤖</text>
-  <text x="230" y="180" font-size="26" opacity="0.7">📊</text>
-  <text x="235" y="100" font-size="22" opacity="0.6">🧠</text>
-  
+
+  <!-- Icône courbe de prévision (forecasting) -->
+  <polyline points="45,120 55,105 65,112 75,95" fill="none" stroke="#FF69B4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  <circle cx="75" cy="95" r="3" fill="#FF69B4" opacity="0.8"/>
+
+  <!-- Icône réseau/sécurité (network security) -->
+  <circle cx="235" cy="105" r="4" fill="#EF93C4" opacity="0.75"/>
+  <circle cx="222" cy="120" r="4" fill="#EF93C4" opacity="0.75"/>
+  <circle cx="245" cy="122" r="4" fill="#EF93C4" opacity="0.75"/>
+  <line x1="235" y1="105" x2="222" y2="120" stroke="#EF93C4" stroke-width="1.5" opacity="0.6"/>
+  <line x1="235" y1="105" x2="245" y2="122" stroke="#EF93C4" stroke-width="1.5" opacity="0.6"/>
+  <line x1="222" y1="120" x2="245" y2="122" stroke="#EF93C4" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Icône chaîne/blockchain (rental platform) -->
+  <rect x="40" y="165" width="14" height="9" rx="4" fill="none" stroke="#F8BBD0" stroke-width="2.5" opacity="0.8"/>
+  <rect x="50" y="165" width="14" height="9" rx="4" fill="none" stroke="#F8BBD0" stroke-width="2.5" opacity="0.8"/>
+
   <!-- Badge AI -->
   <rect x="70" y="240" width="45" height="18" rx="9" fill="#FF69B4" opacity="0.85"/>
   <text x="78" y="253" font-size="10" fill="white" font-family="monospace" font-weight="bold">AI</text>
-  
+
   <!-- Badge Data -->
   <rect x="180" y="240" width="55" height="18" rx="9" fill="#EF93C4" opacity="0.85"/>
   <text x="186" y="253" font-size="10" fill="white" font-family="monospace" font-weight="bold">DATA</text>
-  
+
 </svg>
 
 <br><br>
