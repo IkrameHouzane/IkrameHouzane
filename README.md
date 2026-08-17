@@ -329,7 +329,7 @@ Academic project focused on product prediction and segmentation.
 </div>
 ---
 
-<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+\<!-- ========================= CONTRIBUTION SNAKE ========================= -->
 
 ## 🐍 Contribution Snake
 
@@ -340,16 +340,16 @@ Academic project focused on product prediction and segmentation.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/IkrameHouzane/IkrameHouzane/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/IkrameHouzane/IkrameHouzane/raw/refs/heads/output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/IkrameHouzane/IkrameHouzane/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/IkrameHouzane/IkrameHouzane/raw/refs/heads/output/github-contribution-grid-snake.svg"
   />
 
   <img
-    src="https://raw.githubusercontent.com/IkrameHouzane/IkrameHouzane/output/github-contribution-grid-snake.svg"
+    src="https://github.com/IkrameHouzane/IkrameHouzane/raw/refs/heads/output/github-contribution-grid-snake.svg"
     width="90%"
     alt="GitHub Contribution Snake"
   />
@@ -372,7 +372,7 @@ Academic project focused on product prediction and segmentation.
 
 ### 🔭 Working On
 
-**[YOUR_CURRENT_PROJECT]**
+**Data Science & AI Projects**
 
 </td>
 
