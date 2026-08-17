@@ -68,18 +68,18 @@
 <tr>
 <td width="40%" align="center">
 
-<img src="assets/about-me.svg" width="280" alt="Ikrame illustration"/>
+<img src="assets/about-me.png" width="280" alt="Ikrame illustration"/>
 
 </td>
 <td width="60%" valign="top">
 
-### 👋 Who Am I?
+### 👋 Hi!
 
-I'm a **Software Engineering student** at FST Tangier, specializing in **AI, Data Science & Cybersecurity**.
+Currently living somewhere between **Python scripts** and **machine learning models**. I'm a 2nd-year Software Engineering student in Tangier, chasing a future in **AI & Data Science** — one dataset, one model, and one debugged pipeline at a time.
 
-I love turning data into insights and ideas into working systems — from ML pipelines to full-stack apps.
+Right now that means forecasting fuel prices for a logistics company by day, and untangling network security labs by night.
 
-Currently interning at **Logistral**, building a fuel price forecasting pipeline, while exploring AI, ML and security through hands-on academic projects.
+Outside of code, you'll find me exploring new corners of Tangier or curled up with a book that has absolutely nothing to do with tech.
 
 </td>
 </tr>
