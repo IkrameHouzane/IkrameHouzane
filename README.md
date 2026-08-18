@@ -270,13 +270,6 @@ I'm a last-year Software Engineering student. I'm into AI, Machine Learning, Dat
   />
 </a>
 
-<a href="https://github.com/IkrameHouzane/IkrameHouzane/blob/main/CV_Ikrame_Houzane.pdf">
-  <img
-    src="https://img.shields.io/badge/📄%20CV-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
-    alt="CV"
-  />
-</a>
-
 <br><br>
 
 ### ✨ Open to learning, collaboration & interesting AI projects
