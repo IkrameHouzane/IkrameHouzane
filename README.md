@@ -75,11 +75,7 @@
 
 ###  Hi!
 
-Currently living somewhere between **Python scripts** and **machine learning models**. I'm a 2nd-year Software Engineering student in Tangier, chasing a future in **AI & Data Science** — one dataset, one model, and one debugged pipeline at a time.
-
-Right now that means forecasting fuel prices for a logistics company by day, and untangling network security labs by night.
-
-Outside of code, you'll find me exploring new corners of Tangier or curled up with a book that has absolutely nothing to do with tech.
+I'm a last-year Software Engineering student in Tangier. I'm into AI, Machine Learning, Data Science and Full-Stack development, and over the years I've built a mix of things — predictive models, data pipelines, and complete web applications. I like projects that go from raw data to something people can actually use, and I learn best by building things and breaking them first.
 
 </td>
 </tr>
