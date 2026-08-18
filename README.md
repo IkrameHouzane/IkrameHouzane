@@ -230,6 +230,7 @@ A full data mining pipeline turning raw product data into segments and predictio
 </td>
 </tr>
 </table>
+
 ---
 
 <!-- ========================= GITHUB ACTIVITY ========================= -->
