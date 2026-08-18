@@ -73,7 +73,7 @@
 </td>
 <td width="60%" valign="top">
 
-###  Hi!
+###  
 
 I'm a last-year Software Engineering student. I'm into AI, Machine Learning, Data Science and Full-Stack development, and over the years I've built a mix of things — predictive models, data pipelines, and complete web applications. I like projects that go from raw data to something people can actually use, and I learn best by building things and breaking them first.
 
