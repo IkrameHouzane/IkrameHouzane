@@ -73,7 +73,7 @@
 </td>
 <td width="60%" valign="top">
 
-### 👋 Hi!
+###  Hi!
 
 Currently living somewhere between **Python scripts** and **machine learning models**. I'm a 2nd-year Software Engineering student in Tangier, chasing a future in **AI & Data Science** — one dataset, one model, and one debugged pipeline at a time.
 
