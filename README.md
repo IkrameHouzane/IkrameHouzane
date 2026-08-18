@@ -5,14 +5,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=230&section=header&text=Hey%20there!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2DD4BF&height=230&section=header&text=Hey%20there!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=230&section=header&text=Hey%20there!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:99F6E4,100:2DD4BF&height=230&section=header&text=Hey%20there!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=230&section=header&text=Hey%20there!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2DD4BF&height=230&section=header&text=Hey%20there!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
     width="100%"
     alt="Header"
   />
@@ -24,7 +24,7 @@
 
 <a href="https://github.com/IkrameHouzane">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=750&lines=Software+%26+Intelligent+Systems+Engineering+Student;Aspiring+Data+Scientist+%7C+AI+%26+ML+Enthusiast;Full-Stack+%26+AI+Developer;Building+intelligent+solutions+with+data+%26+code;Always+learning.+Always+building.+"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=Software+%26+Intelligent+Systems+Engineering+Student;Aspiring+Data+Scientist+%7C+AI+%26+ML+Enthusiast;Full-Stack+%26+AI+Developer;Building+intelligent+solutions+with+data+%26+code;Always+learning.+Always+building.+"
     alt="Typing SVG"
   />
 </a>
@@ -34,27 +34,27 @@
 <p>
   <a href="https://github.com/IkrameHouzane">
     <img
-      src="https://img.shields.io/github/followers/IkrameHouzane?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1f1f1f"
+      src="https://img.shields.io/github/followers/IkrameHouzane?label=Followers&style=for-the-badge&color=14B8A6&labelColor=1f1f1f"
       alt="GitHub Followers"
     />
   </a>
 
   <a href="https://github.com/IkrameHouzane?tab=repositories">
     <img
-      src="https://img.shields.io/github/stars/IkrameHouzane?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1f1f1f"
+      src="https://img.shields.io/github/stars/IkrameHouzane?label=Stars&style=for-the-badge&color=2DD4BF&labelColor=1f1f1f"
       alt="GitHub Stars"
     />
   </a>
 
   <img
-    src="https://komarev.com/ghpvc/?username=IkrameHouzane&label=Profile%20Views&color=FF69B4&style=for-the-badge&labelColor=1f1f1f"
+    src="https://komarev.com/ghpvc/?username=IkrameHouzane&label=Profile%20Views&color=0F766E&style=for-the-badge&labelColor=1f1f1f"
     alt="Profile Views"
   />
 </p>
 
 <br>
 
-> 💗 *Turning data into insights, ideas into code, and problems into intelligent solutions.*
+> 🌊 *Turning data into insights, ideas into code, and problems into intelligent solutions.*
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <!-- ========================= ABOUT ME ========================= -->
 
-## 💗 About Me
+## 🌊 About Me
 
 <table>
 <tr>
@@ -122,7 +122,6 @@ I'm a last-year Software Engineering student. I'm into AI, Machine Learning, Dat
   alt="Scikit-learn"
 />
 
-
 <br><br>
 
 ### 🌐 Web Development
@@ -162,7 +161,7 @@ I'm a last-year Software Engineering student. I'm into AI, Machine Learning, Dat
 
 <a href="https://github.com/IkrameHouzane">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=IkrameHouzane&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=Ikrame%27s%20Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IkrameHouzane&bg_color=00000000&color=14B8A6&line=2DD4BF&point=99F6E4&area=true&area_color=14B8A6&hide_border=true&custom_title=Ikrame%27s%20Contribution%20Activity"
     width="95%"
     alt="GitHub Activity Graph"
   />
@@ -178,7 +177,7 @@ I'm a last-year Software Engineering student. I'm into AI, Machine Learning, Dat
 
 <div align="center">
 
-<!-- Generated automatically by .github/workflows/snake.yml -->
+<!-- Generated automatically by .github/workflows/snake.yml — update the snake color params in that workflow to teal to match (e.g. Platane/snk color-snake / color-dots set to #14B8A6 / #2DD4BF) -->
 
 <picture>
   <source
@@ -211,21 +210,21 @@ I'm a last-year Software Engineering student. I'm into AI, Machine Learning, Dat
 
 <a href="https://www.linkedin.com/in/ikrame-houzane/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
 <a href="https://github.com/IkrameHouzane">
   <img
-    src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GitHub-0F766E?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
 
 <a href="mailto:ikramehouzane@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
@@ -245,13 +244,13 @@ I'm a last-year Software Engineering student. I'm into AI, Machine Learning, Dat
 <br>
 
 <p>
-  <i>Thanks for stopping by my profile! 💗</i>
+  <i>Thanks for stopping by my profile! 🌊</i>
 </p>
 
 <br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:F8BBD0&height=160&section=footer&text=Keep%20learning%20%7C%20Keep%20building%20%7C%20Keep%20growing%20💗&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:14B8A6,100:0F766E&height=160&section=footer&text=Keep%20learning%20%7C%20Keep%20building%20%7C%20Keep%20growing%20🌊&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65"
   width="100%"
   alt="Footer"
 />
