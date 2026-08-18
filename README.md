@@ -153,47 +153,6 @@ I'm a last-year Software Engineering student. I'm into AI, Machine Learning, Dat
 </div>
 
 ---
-
-<!-- ========================= WHAT I BUILD ========================= -->
-
-## 🧠 What I Build
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🤖 AI & ML
-
-Machine Learning models, predictive systems, recommendation systems, risk scoring and intelligent applications.
-
-</td>
-
-<td width="33%" align="center">
-
-### 📊 Data Science
-
-Data preprocessing, feature engineering, EDA, classification, clustering, PCA and data mining.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 Full-Stack
-
-Modern web applications, REST APIs, authentication systems and AI-powered platforms.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 <!-- ========================= EXPERIENCE ========================= -->
 
 ## 💼 Experience & Projects
