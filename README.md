@@ -203,46 +203,6 @@ I'm a last-year Software Engineering student. I'm into AI, Machine Learning, Dat
 
 ---
 
-<!-- ========================= CURRENTLY ========================= -->
-
-## 🌸 Currently
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🔭 Working On
-
-**Data Science & AI Projects**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌱 Learning
-
-**Data Science • ML • AI**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🎯 Goal
-
-**Become a strong AI / Data professional**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 <!-- ========================= CONNECT ========================= -->
 
 ## 💌 Let's Connect
