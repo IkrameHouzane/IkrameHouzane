@@ -154,26 +154,46 @@ I'm a last-year Software Engineering student. I'm into AI, Machine Learning, Dat
 
 ---
 <!-- ========================= EXPERIENCE ========================= -->
-
+ 
 ## 💼 Experience & Projects
-
-### 🤖 Full-Stack & AI Intern — TeamElGhazi
-
-**TEMO — Intelligent Educational AI Chatbot**
-
+ 
+<br>
+<table>
+<tr>
+<td width="100%">
+### 🤖 TEMO — Intelligent Educational AI Chatbot
+**Full-Stack & AI Intern @ TeamElGhazi**
+ 
+An AI chatbot for education, from interface to deployment: React frontend talking to a Flask API, OpenAI-powered responses, JWT-secured auth and Alembic-managed data.
+ 
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
+ 
+<details>
+<summary><i>See details</i></summary>
+<br>
 - Built a responsive web interface using **React, Vite & TailwindCSS**
 - Developed REST APIs using **Flask & Flask-RESTful**
 - Integrated AI services through the **OpenAI API**
 - Implemented secure authentication using **JWT**
-- Managed data using **SQLAlchemy**
-- Handled database migrations with **Alembic**
-
----
-
-### 🔗 Blockchain & AI Engineer — Decentralized Rental Platform
-
-Academic project at FST Tangier.
-
+- Managed data using **SQLAlchemy**, migrations with **Alembic**
+</details>
+</td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+<td width="100%">
+### 🏠 Decentralized Rental Platform
+**Blockchain & AI Engineer — Academic project @ FST Tangier**
+ 
+A real-estate rental platform where smart contracts handle trust and an AI microservice handles the thinking: price prediction, risk scoring and recommendations, tuned with GridSearchCV.
+ 
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+ 
+<details>
+<summary><i>See details</i></summary>
+<br>
 - 🏠 Designed a decentralized real-estate rental platform
 - 🔐 Developed smart contracts using **Solidity & Ethereum**
 - 🤖 Built an AI microservice with **FastAPI**
@@ -181,13 +201,24 @@ Academic project at FST Tangier.
 - ⚠️ Developed **risk scoring**
 - 💡 Implemented **recommendation systems**
 - 🧪 Optimized models using **GridSearchCV**
-
----
-
-### 🛍️ Data & ML Engineer — Smart E-commerce Data Mining
-
-Academic project focused on product prediction and segmentation.
-
+</details>
+</td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+<td width="100%">
+### 🛍️ Smart E-commerce Data Mining
+**Data & ML Engineer — Academic project @ FST Tangier**
+ 
+A full data mining pipeline turning raw product data into segments and predictions: preprocessing, Random Forest classification, KMeans clustering and PCA to surface high-potential products.
+ 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+ 
+<details>
+<summary><i>See details</i></summary>
+<br>
 - 📊 Built a complete **Data Mining pipeline**
 - 🧹 Performed preprocessing and feature engineering
 - 🌲 Applied **Random Forest classification**
@@ -195,7 +226,10 @@ Academic project focused on product prediction and segmentation.
 - 📐 Used **PCA** for dimensionality reduction
 - 🔎 Analyzed correlations between product features
 - 📈 Identified products with high potential
-
+</details>
+</td>
+</tr>
+</table>
 ---
 
 <!-- ========================= GITHUB ACTIVITY ========================= -->
