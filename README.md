@@ -339,10 +339,6 @@ Academic project focused on product prediction and segmentation.
   <i>Thanks for stopping by my profile! 💗</i>
 </p>
 
-<p>
-  <i>Let's build something intelligent together.</i>
-</p>
-
 <br>
 
 <img
