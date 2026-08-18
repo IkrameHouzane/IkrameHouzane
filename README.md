@@ -71,7 +71,7 @@
 <img src="assets/about-me.svg" width="280" alt="Ikrame illustration"/>
 
 </td>
-<td width="60%" valign="top">
+<td width="60%" valign="middle">
 
 ###  
 
